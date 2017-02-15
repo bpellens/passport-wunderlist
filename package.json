@@ -1,0 +1,33 @@
+{
+  "name": "passport-wunderlist",
+  "version": "1.0.0",
+  "description": "Wunderlist authentication strategy for Passport.",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpellens/passport-wunderlist.git"
+  },
+  "keywords": [
+    "passport",
+    "auth",
+    "authentication",
+    "oauth2",
+    "wunderlist"
+  ],
+  "author": {
+    "name": "Bram Pellens",
+    "email": "bpellens@gmail.com",
+    "url": "http://www.brampellens.be"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bpellens/passport-wunderlist/issues"
+  },
+  "homepage": "https://github.com/bpellens/passport-wunderlist#readme",
+  "dependencies": {
+    "passport-oauth2": "^1.4.0"
+  }
+}
