@@ -10,7 +10,7 @@ unobtrusively integrated into any application or framework that supports
 
 ## Install
 
-    $ npm install passport-wunderlist (not active yet)
+    $ npm install passport-wunderlist
 
 ## Usage
 
